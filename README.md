@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi 👋, allow me to introduce myself
+#### I'm Mackev, a junior developer 
 
-<!--
-**Mackevv/Mackevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/Mackevv/Mackev/blob/main/mackev/jotaro.gif" width="383" height="214"/>
 
-Here are some ideas to get you started:
+#### 💻 Programming languages :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-f0db4f?style=square&logo=javascript&logoColor=323330" />
+  <img src="https://img.shields.io/badge/-NodeJS-3c873a?style=square&logo=node.js&logoColor=f7fff9" />
+<p/> 
+
+#### 📄 Projects :
+
+\- Currently working on DioBot
