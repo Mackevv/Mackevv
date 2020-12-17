@@ -1,4 +1,4 @@
-## Hi 👋, allow me to introduce myself
+# Hi 👋, allow me to introduce myself
 ### I'm Mackev, a junior developer 
 
 <img src="https://github.com/Mackevv/Mackevv/blob/main/mackev/jotaro.gif" width="383" height="214"/>
