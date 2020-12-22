@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Mackevv/Mackevv/blob/main/mackev/jotaro.gif" width="383" height="214"/>
 
-## I'm Mackev, a junior developer 
+## I'm Mackev, a junior developer from France
 
 ### 💻 Programming languages :
 
