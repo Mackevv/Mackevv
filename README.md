@@ -1,6 +1,6 @@
 ## 👋 Hi, allow me to introduce myself 
 
-<img src="https://github.com/Mackevv/Mackevv/blob/main/assets/mackev-readme.jpg" width="480" height="270"/>
+<img src="https://github.com/Mackevv/Mackevv/blob/main/src/mackev-readme.jpg" width="480" height="270"/>
 
 ## I'm Mackev, a junior developer from France
 
