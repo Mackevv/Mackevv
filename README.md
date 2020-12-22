@@ -1,7 +1,6 @@
 ## Hi 👋, allow me to introduce myself
 
-<img src="https://github.com/Mackevv/Mackevv/blob/main/mackev/jotaro.gif" width="383" height="214"/>
-
+<img src="https://github.com/Mackevv/Mackevv/blob/main/mackev/mackev.jpg />
 ## I'm Mackev, a junior developer from France
 
 ### 💻 Programming languages :
