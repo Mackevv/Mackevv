@@ -13,5 +13,4 @@
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-f0db4f?style=square&logo=javascript&logoColor=323330" />
   <img src="https://img.shields.io/badge/-NodeJS-3c873a?style=square&logo=node.js&logoColor=f7fff9" />
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=square&logo=github&logoColor=f5f5f5" />
 <p/> 
