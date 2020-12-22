@@ -1,9 +1,8 @@
-### Hi 👋, allow me to introduce myself
-
-## I'm Mackev, a junior developer 
-
+## Hi 👋, allow me to introduce myself
 
 <img src="https://github.com/Mackevv/Mackevv/blob/main/mackev/jotaro.gif" width="383" height="214"/>
+
+## I'm Mackev, a junior developer 
 
 ### 💻 Programming languages :
 
