@@ -4,7 +4,7 @@
 
 ## I'm Mackev, a junior developer from France
 
-- 🎉 I'm currently working on DioBot 
+- I'm currently working on DioBot 
 - Learning everything 
 - Also interested in graphic design
 
