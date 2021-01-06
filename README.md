@@ -8,7 +8,7 @@
 - Learning everything 
 - Also interested in graphic design
 
-## Languages :
+## Programming languages :
 
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-f0db4f?style=square&logo=javascript&logoColor=323330" />
