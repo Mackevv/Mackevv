@@ -1,11 +1,10 @@
 ## 👋 Hi, allow me to introduce myself 
 
-<img src="https://github.com/Mackevv/Mackevv/blob/main/src/mackev-readme.jpg" width="576" height="324"/>
+<img src="https://github.com/Mackevv/Mackevv/blob/main/mackev-readme.jpg"/>
 
-## I'm Mackev, a junior developer from France
-
-- I'm currently working on DioBot 
-- Learning everything 
+## I'm Mackev, a junior french developer
+- I'm working on DioBot (pause)
+- Learning everyday
 - Also interested in graphic design
 
 ### Programming languages :
@@ -16,10 +15,3 @@
   <img src="https://img.shields.io/badge/-HTML5-f16529?style=for-the-badge&logo=html5&logoColor=f7fff9" />
   <img src="https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=f7fff9" />
 <p/> 
-
-### Graphic Design tools :
-
-<p>
-  <img src="https://img.shields.io/badge/-Adobe Illustrator-FF9B00?style=for-the-badge&logo=adobe-illustrator&logoColor=300000" />
-  <img src="https://img.shields.io/badge/-Adobe Photoshop-30A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=001E36" />
-<p>
