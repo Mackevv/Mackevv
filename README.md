@@ -3,7 +3,7 @@
 <img src="https://github.com/Mackevv/Mackevv/blob/main/mackev-readme.jpg"/>
 
 ## I'm Mackev, a junior french developer
-- I'm working on DioBot (pause)
+- I'm working on DioBot
 - Learning everyday
 - Also interested in graphic design
 
